@@ -1,0 +1,78 @@
+/* ==========================
+   CONFIGURAÇÃO GERAL
+========================== */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f4;
+    margin: 0;
+    padding: 40px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* ==========================
+   TÍTULO PRINCIPAL
+========================== */
+
+h1 {
+    background-color: #1b5e20;
+    color: white;
+    padding: 20px;
+    margin: -40px -40px 30px -40px;
+    font-size: 36px;
+}
+
+/* ==========================
+   TÍTULO DA MATÉRIA
+========================== */
+
+h2 {
+    color: #2e7d32;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* ==========================
+   SUBTÍTULO
+========================== */
+
+h3 {
+    font-weight: normal;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+/* ==========================
+   PARÁGRAFOS
+========================== */
+
+p {
+    background-color: white;
+    padding: 15px;
+    border-left: 5px solid #2e7d32;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+/* ==========================
+   FONTE
+========================== */
+
+h4 {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #777;
+}
+
+/* ==========================
+   IMAGEM
+========================== */
+
+img {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
